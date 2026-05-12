@@ -26,7 +26,6 @@ This program finds the number is **Odd or Even**.
 ## Concepts Used
 
 - Java Basics
-- Loops (`for` loop)
 - Conditional Statements (`if-else`)
 - Methods / Functions
 
